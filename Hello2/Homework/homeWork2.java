@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class homeWork2 {
 	public static void main(String[] args) {
+		System.out.println("¾ßÈ£");
 		Scanner a = new Scanner(System.in);
 		int A = 0;
 		int B = 0;
