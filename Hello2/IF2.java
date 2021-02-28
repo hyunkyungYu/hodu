@@ -14,6 +14,7 @@ public class IF2 {
 		System.out.println(goodA);
 
 		System.out.println("Ω√¿€");
+		System.out.println("ljy yhk yhd");
 
 		boolean loopNumber = true;
 		int count = 0;
